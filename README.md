@@ -5,7 +5,7 @@
 
 ## Play the Game
 
-🔗 [Play in your browser on itch.io](https://fabriciovo.itch.io/rise-of-darkness)
+🔗 [Play in your browser on itch.io](https://fabvarisco.itch.io/rise-of-darkness)
 
 ## Story
 
