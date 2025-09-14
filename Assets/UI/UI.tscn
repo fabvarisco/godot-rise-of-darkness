@@ -12459,7 +12459,7 @@ __meta__ = {
 anchor_right = 1.0
 anchor_bottom = 1.0
 margin_bottom = -27.0
-color = Color( 0, 0, 0, 0.647059 )
+color = Color( 0, 0, 0, 0.921569 )
 
 [node name="Pause_Button_Container" type="VBoxContainer" parent="Pause_Options"]
 anchor_left = 0.5
